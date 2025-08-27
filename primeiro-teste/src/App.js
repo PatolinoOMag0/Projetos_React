@@ -2,7 +2,6 @@ import './App.css';
 import HelloWorld from './components/HelloWorld';
 import Frase from './components/Frase';
 import DigaMeuNome from './components/DigaMeuNome';
-<<<<<<< HEAD
 import Pessoa from './components/Pessoa';
 =======
 >>>>>>> fd31b247237b3350bd363c01cdc4443f115c764b
