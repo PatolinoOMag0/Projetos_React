@@ -4,7 +4,7 @@ function Formulario(){
 
     function cadastrarUsuario(e){
         e.preventDefault();
-        // console.log(nome)
+        // console.log(nome )
         // console.log('Cadastrou o usuário')
         console.log(`Usuario: ${nome} cadastrado com a senha: ${senha}`)
     }
